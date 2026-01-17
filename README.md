@@ -7,6 +7,6 @@
 [![Resume](https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=readme&logoColor=fff)](https://tyleroneil.dev/Tyler-Oneil-Resume.pdf)
 
 ---
-I’m a software developer focused on building reliable, scalable applications and APIs. I enjoy solving complex problems, writing clean code, and continuously learning new technologies to create impactful software.
+I’m a software developer focused on building reliable, scalable applications and APIs, with an emphasis on clarity, simplicity, and thoughtful system design.
 
-I’m especially passionate about fintech and currently building Nest, a minimalist investment insights platform designed to help long-term investors grow their wealth with clarity and confidence.
+I’m especially passionate about fintech and currently building Nest, a modern financial hub for investing, banking, and financial learning. It is built to help people see their entire financial life in one place.
